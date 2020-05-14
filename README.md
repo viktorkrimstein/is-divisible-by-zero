@@ -1,7 +1,7 @@
 # is-divisible-by-zero
 
 [![NPM version](https://img.shields.io/npm/v/is-divisible-by-zero.svg?style=flat)](https://www.npmjs.com/package/is-divisible-by-zero)
-[![NPM monthly downloads](https://img.shields.io/npm/dm/is-divisible-by-zero .svg?style=flat)](https://npmjs.org/package/is-divisible-by-zero)
+[![NPM monthly downloads](https://img.shields.io/npm/dm/is-divisible-by-zero.svg?style=flat)](https://npmjs.org/package/is-divisible-by-zero)
 [![NPM total downloads](https://img.shields.io/npm/dt/is-divisible-by-zero.svg?style=flat)](https://npmjs.org/package/is-divisible-by-zero)
 [![Linux Build Status](https://img.shields.io/travis/viktorkrimstein/is-divisible-by-zero.svg?style=flat&label=Travis)](https://travis-ci.org/viktorkrimstein/is-divisible-by-zero)
 
