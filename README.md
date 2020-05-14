@@ -3,7 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/is-divisible-by-zero.svg?style=flat)](https://www.npmjs.com/package/is-divisible-by-zero)
 [![NPM monthly downloads](https://img.shields.io/npm/dm/is-divisible-by-zero.svg?style=flat)](https://npmjs.org/package/is-divisible-by-zero)
 [![NPM total downloads](https://img.shields.io/npm/dt/is-divisible-by-zero.svg?style=flat)](https://npmjs.org/package/is-divisible-by-zero)
-[![Linux Build Status](https://img.shields.io/travis/viktorkrimstein/is-divisible-by-zero.svg?style=flat&label=Travis)](https://travis-ci.org/viktorkrimstein/is-divisible-by-zero)
+[![Build Status](https://travis-ci.com/viktorkrimstein/is-divisible-by-zero.svg?branch=master)](https://travis-ci.com/viktorkrimstein/is-divisible-by-zero)
 
 > Returns always `false` since everything is not divisible by `0`.
 
