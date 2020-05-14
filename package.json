@@ -1,0 +1,36 @@
+{
+  "name": "is-divisible-by-zero",
+  "version": "1.0.0",
+  "description": "Takes any arbitary object as input and returns always false, since nothing is numerically divisible by zero.",
+  "repository": "https://github.com/viktorkrimstein/is-divisible-by-zero.git",
+  "homepage": "https://github.com/viktorkrimstein/is-divisible-by-zero",
+  "bugs": {
+    "url": "https://github.com/viktorkrimstein/is-divisible-by-zero/issues"
+  },
+  "author": "Viktor Krimstein (https://github.com/viktorkrimstein)",
+  "license": "Apache-2.0",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "keywords": [
+    "division",
+    "by",
+    "zero",
+    "numeric",
+    "math",
+    "boolean",
+    "tautology",
+    "fun",
+    "eichhoernchen"
+  ]
+}
